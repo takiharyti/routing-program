@@ -1,5 +1,5 @@
 # Hash implementation to hold items in a hashtable.
-# References: Joe James https://www.youtube.com/watch?v=9HFbhPscPU0 and C950 - Webinar-1 - Let's Go Hashing
+# References: Joe James https://www.youtube.com/watch?v=9HFbhPscPU0 and Webinar-1 - Let's Go Hashing
 
 # Initialization of the MyHashTable class.
 class MyHashTable:
