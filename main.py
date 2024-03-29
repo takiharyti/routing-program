@@ -1,4 +1,4 @@
-# Tenny Akihary #000535349
+# Tenny Akihary
 # Main for user input and implementing each file
 
 # Imports
