@@ -69,7 +69,7 @@ def load_package_data(filename):
 
 # Instantiate package hashtable and load package data table.
 all_packages_hashtable = MyHashTable()
-load_package_data("Resources/WGUPS Package File.csv")
+load_package_data("Resources/Package File.csv")
 
 
 # Function for loading the distance table into a dictionary.
@@ -98,7 +98,7 @@ def load_distance_data(filename):
 # Define distance dictionary and address variables and load the distance data table.
 all_distance_data = {}
 address_data = []
-load_distance_data('Resources/WGUPS Distance Table.csv')
+load_distance_data('Resources/Distance Table.csv')
 
 # Function to return the distance between two addresses.
 # O(1)
