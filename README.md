@@ -6,6 +6,6 @@ The program aims to optimize delivery routes for three trucks and two drivers, t
 * Effectively and efficiently using algorithms and data structures to meet contraints.
 * Building a dynamic self-adjusting algorithm.
 * Building a data structure from scratch/without additional libraries or classes.
-* Makes use of self-adjusting heuristics to improve performance.
+* Make use of self-adjusting heuristics to improve performance.
 * Incorporation of dictionaries and sets.
 * Evaluating computational complexity.
